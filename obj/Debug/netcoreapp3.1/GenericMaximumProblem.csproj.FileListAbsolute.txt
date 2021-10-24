@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\neww\GenericMaximumProblem\GenericMaximumProblem\obj\Debug\netcoreapp3.1\GenericMaximumProblem.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\neww\GenericMaximumProblem\GenericMaximumProblem\obj\Debug\netcoreapp3.1\GenericMaximumProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\neww\GenericMaximumProblem\GenericMaximumProblem\obj\Debug\netcoreapp3.1\GenericMaximumProblem.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\neww\GenericMaximumProblem\GenericMaximumProblem\obj\Debug\netcoreapp3.1\GenericMaximumProblem.AssemblyInfo.cs
+C:\Users\hp\Desktop\neww\GenericMaximumProblem\GenericMaximumProblem\obj\Debug\netcoreapp3.1\GenericMaximumProblem.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\neww\GenericMaximumProblem\GenericMaximumProblem\bin\Debug\netcoreapp3.1\GenericMaximumProblem.exe
+C:\Users\hp\Desktop\neww\GenericMaximumProblem\GenericMaximumProblem\bin\Debug\netcoreapp3.1\GenericMaximumProblem.deps.json
+C:\Users\hp\Desktop\neww\GenericMaximumProblem\GenericMaximumProblem\bin\Debug\netcoreapp3.1\GenericMaximumProblem.runtimeconfig.json
+C:\Users\hp\Desktop\neww\GenericMaximumProblem\GenericMaximumProblem\bin\Debug\netcoreapp3.1\GenericMaximumProblem.runtimeconfig.dev.json
+C:\Users\hp\Desktop\neww\GenericMaximumProblem\GenericMaximumProblem\bin\Debug\netcoreapp3.1\GenericMaximumProblem.dll
+C:\Users\hp\Desktop\neww\GenericMaximumProblem\GenericMaximumProblem\bin\Debug\netcoreapp3.1\GenericMaximumProblem.pdb
+C:\Users\hp\Desktop\neww\GenericMaximumProblem\GenericMaximumProblem\obj\Debug\netcoreapp3.1\GenericMaximumProblem.dll
+C:\Users\hp\Desktop\neww\GenericMaximumProblem\GenericMaximumProblem\obj\Debug\netcoreapp3.1\GenericMaximumProblem.pdb
+C:\Users\hp\Desktop\neww\GenericMaximumProblem\GenericMaximumProblem\obj\Debug\netcoreapp3.1\GenericMaximumProblem.genruntimeconfig.cache

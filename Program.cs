@@ -6,7 +6,7 @@ namespace GenericMaximumProblem
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome To Generic Maximum Problem");
         }
     }
 }
